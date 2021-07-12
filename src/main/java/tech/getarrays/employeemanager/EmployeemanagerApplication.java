@@ -33,10 +33,3 @@ public class EmployeemanagerApplication {
 		return new CorsFilter(urlBasedCorsConfigurationSource);
 	}
 }
-
-
-
-
-
-
-
